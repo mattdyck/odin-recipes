@@ -1,0 +1,22 @@
+*{
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 18px;
+    background-color:rgb(223, 252, 242)
+}
+
+img{
+    height:auto;
+    width:750px;
+}
+
+.header{
+    background-color:rgb(23, 136, 98);
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+
+.name{
+    text-align: center;
+    font-size: 56px;
+}
